@@ -3,7 +3,6 @@ import java.util.Map;
 
 public class OOPSBannerUC8 {
 
-    // HashMap to store character patterns
     private static Map<Character, String[]> patternMap = new HashMap<>();
 
     public static void main(String[] args) {
